@@ -1,4 +1,4 @@
-# Astra AI Diagnostics — Demo Platform
+# Astra AI Diagnostics —Platform
 
 This repository contains a simulated Clinical Decision Support (CDS) demo called "Astra AI Diagnostics". It includes a static web-based UI (index.html) that demonstrates a multimodal AI diagnostics interface, and a standalone Python script (predictive_model.py) that generates synthetic data and trains simple machine-learning models for offline experimentation.
 
